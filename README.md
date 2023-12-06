@@ -1,8 +1,8 @@
-# RaspBerryPi CAMTEST
-
+# RaspBerryPi CAM TEST
+**This repository is RaspBerry Pi Cam Test Code**
 ## Requirements
-opencv 4.6.0
-gstreamer  1.0~
+1. opencv 4.6.0  
+2. gstreamer  1.0~  
 
 ## install command
 1. Gstremer  
